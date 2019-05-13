@@ -1,0 +1,14 @@
+.company-logo {
+  max-height: 4em;
+  max-width: 5em;
+  width: auto;
+  height: auto;
+}
+.stock-green {
+  color: green;
+  font-weight: bold;
+}
+.stock-red {
+  color: red;
+  font-weight: bold;
+}
